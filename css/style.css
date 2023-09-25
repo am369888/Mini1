@@ -1,0 +1,16 @@
+.img {
+    width: 100%;
+    z-index: 0;
+}
+    
+.carousel-caption {
+    z-index:1;
+    font-size: 1.3em;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding-bottom: 300px;
+    padding-right: 500px;
+    
+  }
+
+}
